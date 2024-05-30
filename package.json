@@ -1,0 +1,12 @@
+{
+  "name": "canvas-math",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "https://github.com/ArthurNyan/canvas-math.git",
+  "author": "ArhurNyan",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.77.2",
+    "three": "^0.164.1"
+  }
+}
